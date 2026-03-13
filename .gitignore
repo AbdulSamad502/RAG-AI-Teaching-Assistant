@@ -1,0 +1,11 @@
+audios/
+garbage/
+Videos/
+jsons/
+*.mp3
+*.wav
+*.joblib
+*.bin
+*.pkl
+*.npy
+*.pt
